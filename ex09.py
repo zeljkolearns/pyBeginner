@@ -4,6 +4,6 @@ Objective: create funtion voter(num); this should return the resultant nominee f
 			1: Clinton; 2:Cruz; 3:Sanders; 4: Trump; 5: Kasich; 6: Rubio
 			For example: voter(3) should return "Sanders"
 
-(another method of commenting)
+(triple apostrophes allow strings to span multiple lines)
 '''
 
