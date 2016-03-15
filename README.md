@@ -1,7 +1,7 @@
 # pyBeginners
 Welcome Python Beginners! Lets get to work
 
-Quick Python installation Guide:
+**Quick Python installation Guide:**
 
 1) Navigate to https://www.python.org/downloads/
 
@@ -18,16 +18,22 @@ Quick Python installation Guide:
 - Click _Environment Variables_
 - Under _System Variables_, select _Path_
 - Click _Edit_
-- (Windows 7 Users): Add directory to python.exe (i.e. C:\Program Files (x86)\python.exe;) to beginning of text entry box **AND ADD A SEMICOLON AT THE END OF THE PATH**
-- (Windows 10 Users): Follow on-screen prompt and add directory to python.exe
+- (Windows 7 Users): Add directory path to python.exe (i.e. C:\Program Files (x86)\python.exe;) to beginning of text entry box **AND ADD A SEMICOLON AT THE END OF THE PATH**
+- (Windows 10 Users): Follow on-screen prompt and add directory path to python.exe
 
 6) To confirm Python is added to PATH, open command prompt and enter **python**
-
-Quick Git Guide:
+  
+**Quick Git Guide:**
 
 1) If you haven't already, create a GitHub account (www.github.com)
 
-2) Install Git on your computer (https://git-scm.com/downloads). Make sure to add it to your path
+2) Install Git on your computer (https://git-scm.com/downloads). Proceed with default options **but** select _command window_ and _add to PATH_ options when presented
+
+3) Confirm git is added to path
+- Open Command Prompt
+- Enter **git**
+- If presented with a list of git commands, it has been added (congrats)
+- If not presented, attempt to add the GIT to the PATH manually (good luck)
 
 3) Fork the "pyBeginner" repository (https://guides.github.com/activities/forking/)
 
