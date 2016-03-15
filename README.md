@@ -1,7 +1,15 @@
 # pyBeginners
 Welcome Python Beginners! Lets get to work
 
-Here's a quick-and-dirty guide to using Git for exercises:
+Quick Python installation Guide:
+
+1) Navigate to https://www.python.org/downloads/
+
+2) Select Python 2.7.10 
+
+3) Choose appropriate version (check what bit architecut)
+
+Quick Git Guide:
 
 1) If you haven't already, create a GitHub account (www.github.com)
 
@@ -14,15 +22,14 @@ Here's a quick-and-dirty guide to using Git for exercises:
 5) Clone the repository locally:
 - Click the clipboard-looking button to the right of the url
 - Open Command prompt in the directory where you'd like to store your exercises (i.e. go to D:\Users\"your name"\Documents\, hold shift + right-click, select "Open command window here")
-- Enter the following: git clone https://github.com/"your-username-here"/pyBeginner.git
+- Enter the following: **git clone https://github.com/"your-username-here"/pyBeginner.git**
 **This will add all files into that particular directory
 - Edit all exercises to completion
-- Upon completion, enter the following in the command window (in the correct directory): git add "file-name here"
-- You need to commit the changes with an edit message, enter: git commit -m "I changed ____ about this file"
-- Enter: git push
+- Upon completion, enter the following in the command window (in the correct directory): **git add "file-name here"**
+- You need to commit the changes with an edit message, enter: **git commit -m "I changed ____ about this file"**
+- Enter: **git push**
 - Enter proper credentials upon inquiry
 - Confirm that all changes have been pushed by navigating to http://github.com/"your-username-here"/pyBeginner
 
 
 Thats the basics, now go CODE!
-
