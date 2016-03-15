@@ -7,7 +7,21 @@ Quick Python installation Guide:
 
 2) Select Python 2.7.10 
 
-3) Choose appropriate version (check what bit architecut)
+3) Choose appropriate version (check what bit architecture your computer supports)
+
+4) Proceed through installer
+
+5) **If not prompted to add Python to the PATH, do the following:**
+- Open _Control Panel_
+- Click _System_
+- Click _Advanced system settings_ (located on the left pane)
+- Click _Environment Variables_
+- Under _System Variables_, select _Path_
+- Click _Edit_
+- (Windows 7 Users): Add directory to python.exe (i.e. C:\Program Files (x86)\python.exe;) to beginning of text entry box **AND ADD A SEMICOLON AT THE END OF THE PATH**
+- (Windows 10 Users): Follow on-screen prompt and add directory to python.exe
+
+6) To confirm Python is added to PATH, open command prompt and enter **python**
 
 Quick Git Guide:
 
