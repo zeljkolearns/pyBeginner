@@ -45,7 +45,7 @@ Welcome Python Beginners! Lets get to work
 
 5) Navigate to http://github.com/"your-username-here"/pyBeginner (this is where your forked repository lives)
 
-6) Clone the repository locally:
+6) Work with repository on a local machine:
 - Click the clipboard-looking button to retrieve the cloning url (clipboard located to the left of the Download Zip button )
 - Open Command prompt in the directory where you'd like to store your exercises (i.e. go to D:\Users\"your name"\Documents\, hold shift + right-click, select "Open command window here")
 - Enter the following: **git clone https://github.com/"your-username-here"/pyBeginner.git**  
