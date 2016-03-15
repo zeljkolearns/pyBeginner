@@ -22,8 +22,8 @@ Quick Git Guide:
 5) Clone the repository locally:
 - Click the clipboard-looking button to the right of the url
 - Open Command prompt in the directory where you'd like to store your exercises (i.e. go to D:\Users\"your name"\Documents\, hold shift + right-click, select "Open command window here")
-- Enter the following: **git clone https://github.com/"your-username-here"/pyBeginner.git**
-\s\s**This will add all files into that particular directory
+- Enter the following: **git clone https://github.com/"your-username-here"/pyBeginner.git**  
+**This will add all files into that particular directory
 - Edit all exercises to completion
 - Upon completion, enter the following in the command window (in the correct directory): **git add "file-name here"**
 - You need to commit the changes with an edit message, enter: **git commit -m "I changed ____ about this file"**
