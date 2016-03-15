@@ -1,6 +1,12 @@
 # pyBeginners
 Welcome Python Beginners! Lets get to work
 
+**What you'll need**
+- Python
+- Git
+- Text editor/IDE (I use Sublime 3)
+- Patience
+
 **Quick Python installation Guide:**
 
 1) Navigate to https://www.python.org/downloads/
