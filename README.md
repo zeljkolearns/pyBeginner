@@ -6,6 +6,7 @@ Welcome Python Beginners! Lets get to work
 - Git
 - Text editor/IDE (I use Sublime 3)
 - Patience
+- Google/Stack OverFlow/http://learnpythonthehardway.org/book/
 
 **Quick Python installation Guide:**
 
